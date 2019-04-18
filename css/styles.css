@@ -19,14 +19,12 @@ html, body {
   height: 1.5em;
 }
 
-/*
-
-p{
-   display:flex;
-   justify-content:center;
+p {
+  display: flex;
+  justify-content: center;
 }
 
-.date{
+/*.date{
    position:relative;
    font-size:100px;
    line-height:100px;
